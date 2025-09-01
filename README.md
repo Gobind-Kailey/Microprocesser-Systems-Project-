@@ -47,12 +47,6 @@ The system scans an indoor environment by rotating a ToF sensor mounted on a ste
 
 ---
 
-## ⚙️ Setup & Usage
-### Prerequisites
-- Python 3.11.9  
-- Install dependencies:  
-  ```bash
-  pip install pyserial open3d numpy
 
 The setup for running this project is provided in the report: 
 
