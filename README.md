@@ -39,11 +39,19 @@ The system scans an indoor environment by rotating a ToF sensor mounted on a ste
 ---
 
 ## 📸 Results
-- **Generated Point Cloud Visualization**  
-  *(Example from scanned indoor environment — see full report for details)*  
-  <p align="center">
-    <img src="images/3d_visualization.png" alt="3D Visualization" width="600"/>
-  </p>
+- **Generated Point Cloud Visualization**
+ 
+  Preview of 3D visualization 
+  <img width="875" height="561" alt="Screenshot 2025-03-27 213340" src="https://github.com/user-attachments/assets/215b2f6e-57fe-4690-adb1-d4b82d0fe1bc" />
+
+
+  3D Data Visualization 
+  <img width="902" height="585" alt="Screenshot 2025-03-27 213728" src="https://github.com/user-attachments/assets/f07ac938-117d-46d0-95d4-42eaeca81873" />
+
+
+  Live image we imitated 
+  ![IMG_4223 (2)](https://github.com/user-attachments/assets/77cf393b-ed12-4626-a474-41dfbf0646e8)
+
 
 ---
 
