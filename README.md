@@ -56,7 +56,7 @@ The system scans an indoor environment by rotating a ToF sensor mounted on a ste
 ---
 
 
-The setup for running this project is provided in the report: [Final Report (PDF)](_2DX3_Final_Report.pdf)
+The setup for running this project and all other detailed information is provided in the report: [Final Report (PDF)](_2DX3_Final_Report.pdf)
 
 
 
