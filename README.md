@@ -3,11 +3,6 @@
 
 This project implements a cost-effective 3D indoor mapping system using a **Time-of-Flight (ToF) sensor (VL53L1X)**, a **Texas Instruments MSP432E401Y microcontroller**, and a **28BYJ-48 stepper motor**.  
 
-
-<p align="center">
-  <img src="images/system_overview.png" alt="System Overview" width="500"/>
-</p>
-
 ---
 
 ## 🚀 Project Overview
