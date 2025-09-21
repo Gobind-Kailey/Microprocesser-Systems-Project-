@@ -23,7 +23,7 @@ The system scans an indoor environment by rotating a ToF sensor mounted on a ste
 ---
 
 ## 📡 System Communication
-- **I2C**: VL53L1X (Standard Mode, 100 kHz)  
+- **I2C**: (100 kHz clock, ~167 kbps effective): VL53L1X → MSP432E401Y 
 - **UART**: MSP432E401Y → PC (115200 baud)  
 - **Visualization**: Python + Open3D to render `.xyz` point cloud files  
 
